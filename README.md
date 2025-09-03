@@ -44,7 +44,7 @@ This project demonstrates an end-to-end data engineering solution for **GlobalRe
 
 ### Three-Layer Data Lakehouse Architecture
 
-![Architecture](Images/Architecture%Diagram.png)
+![Architecture](Images/Architecture Diagram.png)
 ```
 Raw Data Sources → Bronze Layer → Silver Layer → Gold Layer → Power BI
      ↓               ↓             ↓            ↓          ↓
