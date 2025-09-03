@@ -174,6 +174,9 @@ End-to-End-DE-Global-Retail/
 - Create automated reporting
 - Set up alerts and monitoring
 
+### Dashboard
+![Dashboard](Images/GRdashboard.png)
+
 ## 📊 Key Metrics & KPIs
 
 - **Data Processing Time**: Target < 6 hours (from 72 hours)
