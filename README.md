@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Emilio Montelongo Luna**
 - GitHub: [@EmilioMonteLuna](https://github.com/EmilioMonteLuna)
-- LinkedIn: [Connect with me](https://linkedin.com/in/emiliomonteluna)
+- LinkedIn: [Connect with me](https://linkedin.com/in/Emilio-Montelongo-Luna)
 
 ## 🙏 Acknowledgments
 
