@@ -44,13 +44,14 @@ This project demonstrates an end-to-end data engineering solution for **GlobalRe
 
 ### Three-Layer Data Lakehouse Architecture
 
+![Architecture](Images/Architecture%Diagram.png)
 ```
 Raw Data Sources → Bronze Layer → Silver Layer → Gold Layer → Power BI
      ↓               ↓             ↓            ↓          ↓
    CSV/JSON/      Raw Data      Clean &      Business    Reports &
    Parquet        Ingestion    Transform    Analytics    Dashboards
 ```
-
+![LayerSolution](Images/GRSol.png)
 #### 🥉 Bronze Layer (Raw Ingestion)
 - **Purpose**: Store raw data exactly as received
 - **Benefit**: Data auditability and reprocessing capability
@@ -82,7 +83,7 @@ Raw Data Sources → Bronze Layer → Silver Layer → Gold Layer → Power BI
 | **Power BI** | Business intelligence | Interactive dashboards and reporting |
 
 ## 📈 Solution Benefits
-
+![SolutionComponents](Images/SolutionComponents.png)
 ### Scalability
 - Handle 5+ years of historical data
 - Process growing data volumes efficiently
@@ -148,10 +149,7 @@ End-to-End-DE-Global-Retail/
 │   ├── bronze/          # Raw data ingestion
 │   ├── silver/          # Data cleaning and transformation
 │   └── gold/            # Business analytics layer
-├── config/              # Configuration files
-├── utils/               # Utility functions
 ├── dashboards/          # Power BI dashboard files
-└── docs/               # Additional documentation
 ```
 
 ## 🔧 Implementation Phases
